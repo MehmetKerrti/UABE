@@ -5,11 +5,11 @@ UnityAssetBundleExtractor
 
 # 🚀 Genel Bilgi 
 
-## UABE, 3.4+/4/5/2017-2021.3 .assets ve AssetBundle dosyaları için bir düzenleyicidir. .assets ve/veya paketlerdeki değişikliklerden bağımsız mod yükleyicileri oluşturabilir.
+### UABE, 3.4+/4/5/2017-2021.3 .assets ve AssetBundle dosyaları için bir düzenleyicidir. .assets ve/veya paketlerdeki değişikliklerden bağımsız mod yükleyicileri oluşturabilir.
 ## Varlıkları yaygın dosya formatlarından/formatlarına dönüştürmek için birden fazla eklenti mevcuttur:
 
-## Texture eklentisi, .png ve .tga dosyalarını (yalnızca Texture2D) dışa ve içe aktarabilir ve Unity tarafından kullanılan çoğu doku formatını kodlayıp çözebilir.
-## TextAsset eklentisi, .txt dosyalarını içe ve dışa aktarabilir.
-## AudioClip eklentisi, FMOD kullanarak Unity 5+ AudioClip varlıklarından sıkıştırılmamış .wav dosyalarını, WebGL sürümlerinden .m4a dosyalarını ve Unity 4 ses dosyalarını dışa aktarabilir.
+### Texture eklentisi, .png ve .tga dosyalarını (yalnızca Texture2D) dışa ve içe aktarabilir ve Unity tarafından kullanılan çoğu doku formatını kodlayıp çözebilir.
+### TextAsset eklentisi, .txt dosyalarını içe ve dışa aktarabilir.
+### AudioClip eklentisi, FMOD kullanarak Unity 5+ AudioClip varlıklarından sıkıştırılmamış .wav dosyalarını, WebGL sürümlerinden .m4a dosyalarını ve Unity 4 ses dosyalarını dışa aktarabilir.
 
 Youtube/guarbey

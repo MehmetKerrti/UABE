@@ -13,3 +13,4 @@ UnityAssetBundleExtractor
 ### AudioClip eklentisi, FMOD kullanarak Unity 5+ AudioClip varlıklarından sıkıştırılmamış .wav dosyalarını, WebGL sürümlerinden .m4a dosyalarını ve Unity 4 ses dosyalarını dışa aktarabilir.
 
 Youtube/guarbey
+C++
